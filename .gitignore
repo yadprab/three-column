@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+Button.js
+data.js
+Drag.js
+Form.js
+Layout.js
+Nav.js
+Select.js
+SideEffect.js
+Test.js
